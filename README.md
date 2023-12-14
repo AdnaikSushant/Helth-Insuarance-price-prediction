@@ -1,1 +1,1 @@
-# Helth-Insuarance-price-prediction
+# Health-Insuarance-price-prediction
